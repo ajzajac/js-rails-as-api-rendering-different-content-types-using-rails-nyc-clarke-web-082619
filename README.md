@@ -252,7 +252,7 @@ write `to_json` on the same line as `render json:` in every action we write.
 ## Say Goodbye to Instance Variables
 
 So far in controller actions, we've typically seen instance variables being used,
-just as we have in the examples in this lesson:
+just as we have in the examples in this leson:
 
 ```rb
 class BirdsController < ApplicationController
